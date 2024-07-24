@@ -1,0 +1,13 @@
+{
+  "name": "transcoder_service",
+  "version": "1.0.0",
+  "description": "transocder service for the fulstack youtube build",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
