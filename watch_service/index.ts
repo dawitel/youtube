@@ -1,7 +1,7 @@
 import cors from "cors"
-import express from "express"
+import express, { Request, Response } from "express"
 import dotenv from "dotenv"
-import watchRouter from ".routes/watch.route"
+import watchRouter from "./routes/watch.route"
 
 dotenv.config()
 

@@ -1,5 +1,6 @@
 import { Request, Response } from "express";
-import { PrismaClient } from "@prisma/client";
+
+import {  } from '@prisma/client'
 /**
  * @description handler for getting all videos data
  * @param req : express Request

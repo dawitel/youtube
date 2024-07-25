@@ -1,3 +1,4 @@
+import { Request, Response } from "express";
 
 /**
  * @description Recommend videos based on preset videos

@@ -7,7 +7,7 @@ type videoMetData = {
   title: string;
   description: string;
   author: string;
-  url: URL;
+  url: string;
 };
 
 export const addVideoDetailsToDB = async ({
